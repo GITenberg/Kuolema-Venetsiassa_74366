@@ -1,0 +1,38 @@
+_repo: Kuolema-Venetsiassa_74366
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Kivimaa, Toini
+    gutenberg_agent_id: '57468'
+    url: http://www.gutenberg.org/2009/agents/57468
+creator:
+  author:
+    agent_name: Mann, Thomas
+    aliases:
+    - Mann, Paul Thomas
+    - Thomas, Paul
+    birthdate: 1875
+    deathdate: 1955
+    gutenberg_agent_id: '4200'
+    url: http://www.gutenberg.org/2009/agents/4200
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Thomas_Mann
+    - https://de.wikipedia.org/wiki/Thomas_Mann
+description: ''
+gutenberg_issued: '2024-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74366'
+language: fi
+pgterms:marc905: 20240801105214mann
+pgterms:marc906: '1928'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Kuolema Venetsiassa
+url: http://www.gutenberg.org/ebooks/74366
